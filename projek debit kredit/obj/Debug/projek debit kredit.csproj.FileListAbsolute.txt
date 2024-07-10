@@ -1,0 +1,8 @@
+D:\Kuliah\Semester 1\Pemrogaman dasar\Tugas\projek debit kredit\projek debit kredit\bin\Debug\projek debit kredit.exe.config
+D:\Kuliah\Semester 1\Pemrogaman dasar\Tugas\projek debit kredit\projek debit kredit\bin\Debug\projek debit kredit.exe
+D:\Kuliah\Semester 1\Pemrogaman dasar\Tugas\projek debit kredit\projek debit kredit\bin\Debug\projek debit kredit.pdb
+D:\Kuliah\Semester 1\Pemrogaman dasar\Tugas\projek debit kredit\projek debit kredit\obj\Debug\projek debit kredit.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 1\Pemrogaman dasar\Tugas\projek debit kredit\projek debit kredit\obj\Debug\projek debit kredit.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\Semester 1\Pemrogaman dasar\Tugas\projek debit kredit\projek debit kredit\obj\Debug\projek debit kredit.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 1\Pemrogaman dasar\Tugas\projek debit kredit\projek debit kredit\obj\Debug\projek debit kredit.exe
+D:\Kuliah\Semester 1\Pemrogaman dasar\Tugas\projek debit kredit\projek debit kredit\obj\Debug\projek debit kredit.pdb
